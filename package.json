@@ -1,0 +1,22 @@
+{
+  "name": "@kamleshkumar/oop-my-bank",
+  "version": "1.0.0",
+  "description": "this is project no 11 oop my bank",
+  "main": "index.js",
+  "type": "module",
+  "publishConfig": {
+    "access": "public"
+  },
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kamlesh kumar",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.23"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
